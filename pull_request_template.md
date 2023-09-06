@@ -1,10 +1,8 @@
-Note: This template is a WIP while we align as a team on this.
-
-## Describe what this PR trying to accomplish
+## Jira ticket link
 
 ## QA Instructions
 
-## Jira ticket link
+## Notes
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code.
